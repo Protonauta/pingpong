@@ -1,2 +1,2 @@
 # pingpong
-Go lang program for testing go rutines and threading management
+Go program for testing go rutines and channels
