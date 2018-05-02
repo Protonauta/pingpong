@@ -1,3 +1,6 @@
+/*
+Code implemented thanks to Yohan Graterol at https://platzi.com/cursos/go-basico/
+*/
 package main 
 import(
 	"fmt"
